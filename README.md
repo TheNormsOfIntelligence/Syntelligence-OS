@@ -43,7 +43,4 @@ docker run -p 8000:8000 syntelligence-backend
 
 ## Security
 
-- JWT-based authentication
-- Password hashing with bcrypt
-- Rate limiting
-- End-to-end encryption for sensitive data
+README.md
